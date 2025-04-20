@@ -21,14 +21,14 @@
             "id": "c7efb6a6abb083a0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "People Of Interest/The Gourmand.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/app.json",
+                "bFile": ".obsidian/app.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "The Gourmand"
+              "icon": "diff",
+              "title": "Diff: app.json"
             }
           },
           {
@@ -204,7 +204,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a440e35e3b1d9d00",
+  "active": "c7efb6a6abb083a0",
   "lastOpenFiles": [
     "The Tidepools.md",
     "People Of Interest/The Gourmand.md",

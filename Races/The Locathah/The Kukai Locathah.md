@@ -1,0 +1,3 @@
+Deeper in [[The Lower Pools]], where the upper levels create a sort of canopy and block much of the natural light from the surface of the water, the Kukai Locathah make their home. This subspecies is much paler, resembling the troglodytic catfish who also make their home in the dark. 
+
+Kukai Locathah are the least nomadic of their race and often make permanent homes in stone huts, illuminated by the bioluminescent algae they feed on. Despite their off-putting appearances and subterranean lifestyle, The Kukai is one of the most accepting cultures to be found in The Tide Pools as one of their main cultural tenets, *accipere detrium*, is to give shelter to those who are rejected by the world on the surface.

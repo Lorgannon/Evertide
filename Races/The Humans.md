@@ -1,0 +1,3 @@
+#TerrestrialRace
+### Steadfast, Stubborn, Stuck
+Woefully maladapted to the infinite seas surrounding them, humanity has found itself struggling almost constantly to survive. Some find themselves spread across [[Pheydren's Domain]] and [[The White Coast]] on the floating townships constructed by [[The Goblinoids|Goblinoids]] and [[The Orcs|Orcs]]. Others find themselves in nomadic groups of one to two hundred, individuals bound either by blood, creed, or circumstance. Besides the few small “settlements” they have developed over the past millennia, there have been rumblings of a [[The Nascent Shore|united front]] forming on the Northwestern border of The Tide Pools.

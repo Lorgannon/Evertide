@@ -1,0 +1,3 @@
+*(Bwee-tacht-tah)*
+### The Yellow King, He Lies, The Lost Sovereign
+Of [[The Dorsh'hanin]], The Yellow King is the most often encountered by the terrestrial races. This is most likely due to power over madness, and terrestrial races' tendency to descend to such depths during long stints stuck on damaged boats. Most often depicted as a semi-humanoid creature wearing the mantle of a yellow octopus as a cloak, Buitachta is one of the few [[The Dorsh'hanin|Hanin]] which maintains a following of unconscious beings. Called dreamers by the Triton scholars who encounter them, cultists of the Yellow King are recruited in their sleep or during psychotic breaks, existing in fugue states as they carry out his will.

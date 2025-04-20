@@ -1,0 +1,2 @@
+To the North, the twisting bowels of [[The Mangrove Swamps]] form a bustling ecosystem all on their own. Twisting roots bind together soil to form rich beds of growth for algae and anemones, and in turn, those bromeliad anemones create small pockets of freshwater during low tide where many of the larval stages of [[Evertide]]’s creatures are born. Aquatic apes also make this region their home, swinging between loose roots in search of insects and crustaceans during low tide, and swimming in packs after schools of fish during
+the highs.

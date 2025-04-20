@@ -1,0 +1,1 @@
+Out past the blue waters of [[Pheydren's Domain]], near the edges of the world, the seas of [[Evertide]] grow deep and dark. The Sea beyond is full to bursting with dangerous predators, magical and mundane. Owing to this danger, few sentient creatures make their homes among these waves. Only mad cults to [[The Dorsh'hanin]] or the occasional [[Dragonborn]] dwell here.

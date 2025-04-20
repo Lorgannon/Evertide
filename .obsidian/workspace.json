@@ -1,0 +1,249 @@
+{
+  "main": {
+    "id": "e2ed30faa141a45c",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb1273c84ab29eca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "90e10bb77a754586",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "c7efb6a6abb083a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "People Of Interest/The Gourmand.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Gourmand"
+            }
+          },
+          {
+            "id": "56c9c29d3e2a4d8e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vignettes/An Understanding of Those Below.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "An Understanding of Those Below"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ebd1cdda511a1e63",
+    "type": "split",
+    "children": [
+      {
+        "id": "48f60d0ecd509b30",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7fe8aeb4dc40fc42",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e29a2a4fa99f8a34",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Calidan",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "13d3d66c36df21ed",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "20b63dedbe4a451b",
+    "type": "split",
+    "children": [
+      {
+        "id": "65fe6ad1f956f1c8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c2c5dd0ede9e6c9f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Evertide.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Evertide"
+            }
+          },
+          {
+            "id": "a2b341c4ee223297",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Evertide.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Evertide"
+            }
+          },
+          {
+            "id": "4cddda65f4f6cc5c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "95ee0536c576c79d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "People Of Interest/The Gourmand.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of The Gourmand"
+            }
+          },
+          {
+            "id": "a440e35e3b1d9d00",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "a440e35e3b1d9d00",
+  "lastOpenFiles": [
+    "The Tidepools.md",
+    "People Of Interest/The Gourmand.md",
+    "Vignettes/As Tyfu Enters his New Cathedral.md",
+    "Vignettes/An Understanding of Those Below.md",
+    "Religion in Evertide/The Way of The Tide.md",
+    "Religion in Evertide/Vuld fånge.md",
+    "Religion in Evertide/The Unsung Path.md",
+    "Religion in Evertide/The Nascent Shore.md",
+    "Religion in Evertide/The Great Torrent.md",
+    "Religion in Evertide/The Great Seal.md",
+    "Religion in Evertide/Pheydren's Creed.md",
+    "People Of Interest/Calidan the Uniter.md",
+    "NPC's/Henry.md",
+    "NPC's/Ysolde Merrigen.md",
+    "NPC's/Ronnie.md",
+    "NPC's",
+    "People Of Interest/Oillipheist, The Glutton.md",
+    "People Of Interest/Pheydren the Great.md",
+    "Vignettes",
+    "Grouped Canvases/The People of the Tidepools.canvas",
+    "The Dorsh'hanin/Buitachta.md",
+    "The Dorsh'hanin/Duibheagán.md",
+    "The Dorsh'hanin/Gialaghain.md",
+    "The Dorsh'hanin/Lobhadh.md",
+    "The Dorsh'hanin/Ollophair.md",
+    "The Dorsh'hanin/Neamhní.md",
+    "Points of Interest/Pourewa Tike.md",
+    "Evertide.md",
+    "Regions/Pheydren's Domain.md",
+    "The Family of Ice",
+    "snippets/Image Align.css",
+    "snippets/img..txt",
+    "snippets/New Text Document.txt",
+    "snippets",
+    "Images/Oillipheist.jpg.~tmp",
+    "Images",
+    "Images/Oillipheist.jpg",
+    "Player Characters",
+    "Evertide/Grouped Canvases/The Terrestrial Races.canvas"
+  ]
+}

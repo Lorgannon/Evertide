@@ -1,0 +1,5 @@
+*(Loh)*
+
+### The Falling Rot, Coddling Decay
+
+Marine snow, whale fall, detritus. Lobhadh is the master of all things discarded to the sea. Its followers gladly welcome all which would be ignored by the rest of [[Evertide]]. In fact, of the cults surrounding [[The Dorsh'hanin]], The Falling Rot has some of the most amicable members. Most wish to live simple lives away from other settled areas while living off of their waste. In exchange for his protection, Lobhadh does demand certain privileges. These mostly concern rituals which are performed on the bodies that followers may find during their travels which bind the souls of those bodies to Lobhadh’s domain. However, there are rare occasions on which The Rot may demand that its members expedite the decay of certain creatures or powers so that he may feed more extravagantly.

@@ -1,0 +1,4 @@
+*(Dev-ah-Gahn)*
+### The Blind Abyss, The Dark Below
+
+While there is almost certainly a [[The Dorsh'hanin|Dorsh'hanin]] which embodies each individual horror of the Deep Black, The Duibheagán is [[The Deep Black|The Black]] itself, The viscous inky darkness which threatens to suffocate all faith and sentience unlucky enough to fall into its depths. Duibheagán is rarely known to take any fully realized physical form. Instead, it manifests as disembodied tentacles and teeth which grasp at anything that falls into its territory. His followers, often lost [[The Kukai Locathah|Kukai Locathah]] driven mad by exposure to the deep, commit brutal murders in his name. Stripping their victims of sensory organs one at a time as they still breathe so that they may feel the glory of their dark master.

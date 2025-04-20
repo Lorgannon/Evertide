@@ -1,0 +1,3 @@
+As [[Evertide]] drifted about the Astral Sea, it was eventually caught in a current of arcane energy. Known to locals as "The Great Torrent", the arcane emanations of this current power almost all magic in Evertide. 
+
+The Great Torrent has built something of a religious significance across Evertide. [[The Vedalken]] in particular center a great deal of spiritual importance on the eddies and vortices of The Great Torrent. Their shaman train for years to read them as portends and prophecies.

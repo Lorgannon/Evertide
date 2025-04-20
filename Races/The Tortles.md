@@ -1,0 +1,4 @@
+#TerrestrialRace
+### Nomads of [[The Mangrove Swamps]]
+
+Among the twisting roots of the great mangrove forests that crown [[The Tidepools]], a small tribe of large, humanoid turtles have made their lives harvesting the fish and seaweed endemic to their environment. As perpetual nomads, Tortles most often choose to live simply, carting what few belongings they have on riggings attached to their shells. Aside from their rarity, Tortles are most notable for their longevity, with the oldest Tortles being upwards of a millennium old. [[Vuld fånge|Tortle myth]] tells of some divine intervention that brought them to [[Evertide]] initially. It is this old superstition that informs their nomadic lifestyle, as they believe that they must never put down roots so that they one day may leave [[Evertide]] and return to their old homeland elsewhere in the planes.

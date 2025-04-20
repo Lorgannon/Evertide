@@ -1,0 +1,1 @@
+Henry is a member of [[The Nascent Shore]], One of the two kitchen staff that keep the community well-fed. He was pulled from a shipwreck on [[The White Coast]] just 5 years ago, and along with his brother [[Ronnie]] has been a comforting, if not overly goofy presence aboard the ship

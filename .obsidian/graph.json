@@ -1,0 +1,86 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"People Of Interest\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "path:\"Player Characters\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 691968
+      }
+    },
+    {
+      "query": "path:\"Points of Interest\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16108805
+      }
+    },
+    {
+      "query": "path:Races  ",
+      "color": {
+        "a": 1,
+        "rgb": 7713781
+      }
+    },
+    {
+      "query": "path:Regions  ",
+      "color": {
+        "a": 1,
+        "rgb": 1761438
+      }
+    },
+    {
+      "query": "path:\"Religion in Evertide\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 2388633
+      }
+    },
+    {
+      "query": "path:\"The Dorsh'hanin\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6684927
+      }
+    },
+    {
+      "query": "file:Evertide",
+      "color": {
+        "a": 1,
+        "rgb": 6120185
+      }
+    },
+    {
+      "query": "file:The Tidepools",
+      "color": {
+        "a": 1,
+        "rgb": 399092
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.0894222222222222,
+  "repelStrength": 4.89837037037037,
+  "linkStrength": 0.260088888888889,
+  "linkDistance": 207,
+  "scale": 0.4429452560339473,
+  "close": true
+}

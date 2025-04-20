@@ -1,0 +1,3 @@
+*(Nyev-ni)*
+### The Void Above, The Endless Waves
+Most often represented by a starless sky, or sometimes, a great shape blotting out the stars of the night sky. Neamhní is the only being among [[The Dorsh'hanin]] known to hold power over, the sky itself. Neamhní’s priests and cultists primarily carry out their rituals on the edge of [[Evertide]], casting victims of sacrifice over the edges of the world to feed their dark king. Other than that, there are reports that a small cult of his exists in the walled settlement of [[Pourewa Tike]], working in the shadows, urging the building of the city ever upwards to one day meet their lord in the skies above Evertide.
